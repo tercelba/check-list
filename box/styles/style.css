@@ -1,0 +1,22 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.first {
+	padding: 0;
+	border: 10px solid #1C4587;
+	width: 500px;
+	height: 200px;
+	background-color: #45818e;
+}
+.second {
+	padding: 50px;
+	border: 30px solid #e06666;
+	width: 500px;
+	height: 200px;
+	background-color: #93c47d;
+	
+}
